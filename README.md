@@ -23,3 +23,7 @@
 
 <img width="1919" height="377" alt="изображение" src="https://github.com/user-attachments/assets/816d8b75-e4cd-434b-a990-99a2bade1f31" />
 
+## Задание 4. Запись данных в Redis
+Все записанные ключи и значения из базы:
+
+<img width="492" height="386" alt="изображение" src="https://github.com/user-attachments/assets/9d8514fa-806e-4d0a-984c-73afcfb50ba4" />
