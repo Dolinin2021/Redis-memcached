@@ -21,4 +21,5 @@
 
 ## Задание 3. Удаление по TTL в Memcached
 
-<img width="1919" height="385" alt="изображение" src="https://github.com/user-attachments/assets/2ae4029d-b4f9-4ecc-b2fe-0ffd8ad1ce43" />
+<img width="1919" height="377" alt="изображение" src="https://github.com/user-attachments/assets/816d8b75-e4cd-434b-a990-99a2bade1f31" />
+
