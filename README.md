@@ -18,3 +18,7 @@
 Результат выполнения команды **sudo systemctl status memcached:**
 
 <img width="1358" height="410" alt="изображение" src="https://github.com/user-attachments/assets/6ddb3997-7d9d-4c7c-8ab9-c5f7993e1e17" />
+
+## Задание 3. Удаление по TTL в Memcached
+
+<img width="1919" height="385" alt="изображение" src="https://github.com/user-attachments/assets/2ae4029d-b4f9-4ecc-b2fe-0ffd8ad1ce43" />
