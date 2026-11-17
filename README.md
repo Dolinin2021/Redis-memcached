@@ -15,6 +15,6 @@
 
 ## Задание 2. Memcached
 
-Результат выполнения команды **sudo systemctl status memcached**:
+Результат выполнения команды **sudo systemctl status memcached:**
 
 <img width="1358" height="410" alt="изображение" src="https://github.com/user-attachments/assets/6ddb3997-7d9d-4c7c-8ab9-c5f7993e1e17" />
